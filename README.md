@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumay3105" alt="saumay3105" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,ExpressJS, Kubernetes,**
+- 🌱 I’m currently learning **Go,NextJS, Kubernetes,**
 
 - 💬 Ask me about **ReactJS, ML, AWS**
 
