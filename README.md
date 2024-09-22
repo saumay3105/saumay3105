@@ -1,5 +1,18 @@
 # 💫 About Me:
-🌱 I’m currently learning Go,NextJS, Kubernetes,<br>💬 Ask me about ReactJS, ML, AWS<br>📫 How to reach me saumay123@gmail.com<br>👨‍💼 My Portfolio - https://porfolio-mu-smoky.vercel.app/<br>
+
+<table>
+  <tr>
+    <td>
+      🌱 I’m currently learning Go, NextJS, Kubernetes<br>
+      💬 Ask me about ReactJS, ML, AWS<br>
+      📫 How to reach me saumay123@gmail.com<br>
+      👨‍💼 My Portfolio - <a href="https://porfolio-mu-smoky.vercel.app/">Portfolio</a><br>
+    </td>
+    <td>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
